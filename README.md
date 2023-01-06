@@ -43,3 +43,4 @@ Java ongoing understanding git, maven, sonar and nexus.
 the road to top requires a map
 =======
 >>>>>>> feature-branch
+Hi 
